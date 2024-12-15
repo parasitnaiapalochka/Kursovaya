@@ -1,0 +1,32 @@
+[
+  {
+    "SuppliedMovies": [],
+    "Name": "fdsfsd",
+    "Address": "fdsfsd",
+    "BankAccount": {
+      "BankName": "fsdfds",
+      "AccountNumber": "fdsfsd"
+    },
+    "TaxId": "fsdfs"
+  },
+  {
+    "SuppliedMovies": [],
+    "Name": "Докто",
+    "Address": "Доктор",
+    "BankAccount": {
+      "BankName": "Доктор",
+      "AccountNumber": "2005"
+    },
+    "TaxId": "2005012345"
+  },
+  {
+    "SuppliedMovies": [],
+    "Name": "Кинофонд",
+    "Address": "Москва 24а",
+    "BankAccount": {
+      "BankName": "Сбер",
+      "AccountNumber": "123456898"
+    },
+    "TaxId": "12345678987"
+  }
+]

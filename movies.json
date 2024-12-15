@@ -1,0 +1,197 @@
+[
+  {
+    "Title": "Movie 1",
+    "Category": 0,
+    "ScriptWriter": {
+      "FullName": "John Doe",
+      "ContactInfo": "Scriptwriter"
+    },
+    "Director": {
+      "FullName": "Jane Doe",
+      "ContactInfo": "Director"
+    },
+    "ProductionCompany": {
+      "ProducedMovies": [],
+      "Name": "Company A",
+      "Address": "Address 1",
+      "BankAccount": {
+        "BankName": "Bank A",
+        "AccountNumber": "1234"
+      },
+      "TaxId": "Tax123"
+    },
+    "ReleaseYear": 2021,
+    "Cost": 100000.0,
+    "Supplier": {
+      "SuppliedMovies": [],
+      "Name": "Supplier A",
+      "Address": "Address A",
+      "BankAccount": {
+        "BankName": "Bank A",
+        "AccountNumber": "5678"
+      },
+      "TaxId": "Supplier1"
+    }
+  },
+  {
+    "Title": "Movie 2",
+    "Category": 3,
+    "ScriptWriter": {
+      "FullName": "Alice Smith",
+      "ContactInfo": "Scriptwriter"
+    },
+    "Director": {
+      "FullName": "Bob Brown",
+      "ContactInfo": "Director"
+    },
+    "ProductionCompany": {
+      "ProducedMovies": [],
+      "Name": "Company B",
+      "Address": "Address 2",
+      "BankAccount": {
+        "BankName": "Bank B",
+        "AccountNumber": "2345"
+      },
+      "TaxId": "Tax456"
+    },
+    "ReleaseYear": 2020,
+    "Cost": 150000.0,
+    "Supplier": {
+      "SuppliedMovies": [],
+      "Name": "Supplier B",
+      "Address": "Address B",
+      "BankAccount": {
+        "BankName": "Bank B",
+        "AccountNumber": "6789"
+      },
+      "TaxId": "Supplier2"
+    }
+  },
+  {
+    "Title": "Movie 3",
+    "Category": 2,
+    "ScriptWriter": {
+      "FullName": "Charlie Johnson",
+      "ContactInfo": "Scriptwriter"
+    },
+    "Director": {
+      "FullName": "Dave White",
+      "ContactInfo": "Director"
+    },
+    "ProductionCompany": {
+      "ProducedMovies": [],
+      "Name": "Company C",
+      "Address": "Address 3",
+      "BankAccount": {
+        "BankName": "Bank C",
+        "AccountNumber": "3456"
+      },
+      "TaxId": "Tax789"
+    },
+    "ReleaseYear": 2022,
+    "Cost": 120000.0,
+    "Supplier": {
+      "SuppliedMovies": [],
+      "Name": "Supplier C",
+      "Address": "Address C",
+      "BankAccount": {
+        "BankName": "Bank C",
+        "AccountNumber": "1234"
+      },
+      "TaxId": "Supplier3"
+    }
+  },
+  {
+    "Title": "hgf",
+    "Category": 1,
+    "ScriptWriter": {
+      "FullName": "hgfdshgf",
+      "ContactInfo": "hfgdhdf"
+    },
+    "Director": {
+      "FullName": "ghfsdhdf",
+      "ContactInfo": "dhgfhdf"
+    },
+    "ProductionCompany": {
+      "ProducedMovies": [],
+      "Name": "hgfdhdf",
+      "Address": "hgfdhdf",
+      "BankAccount": {
+        "BankName": "hgdfhdf",
+        "AccountNumber": "hdfghdf"
+      },
+      "TaxId": "hgdfhdf"
+    },
+    "ReleaseYear": 2005,
+    "Cost": 2005.0,
+    "Supplier": {
+      "SuppliedMovies": [],
+      "Name": "2005",
+      "Address": "2005",
+      "BankAccount": {
+        "BankName": "2005",
+        "AccountNumber": "2005"
+      },
+      "TaxId": "2005"
+    }
+  },
+  {
+    "Title": "Доктор Стрендж",
+    "Category": 5,
+    "ScriptWriter": {
+      "FullName": "Доктор ",
+      "ContactInfo": "2005"
+    },
+    "Director": {
+      "FullName": "Доктор ",
+      "ContactInfo": "Доктор "
+    },
+    "ProductionCompany": {
+      "ProducedMovies": [],
+      "Name": "Доктор ",
+      "Address": "2005",
+      "BankAccount": {
+        "BankName": "2005",
+        "AccountNumber": "Доктор "
+      },
+      "TaxId": "Доктор "
+    },
+    "ReleaseYear": 2005,
+    "Cost": 2005.0,
+    "Supplier": {
+      "SuppliedMovies": [],
+      "Name": "2005",
+      "Address": "2005",
+      "BankAccount": {
+        "BankName": "2005",
+        "AccountNumber": "2005"
+      },
+      "TaxId": "2005"
+    }
+  },
+  {
+    "Title": "Неуловимые мстители",
+    "Category": 0,
+    "ScriptWriter": {
+      "FullName": "",
+      "ContactInfo": "1000"
+    },
+    "Director": {
+      "FullName": "",
+      "ContactInfo": ""
+    },
+    "ProductionCompany": {
+      "ProducedMovies": [],
+      "Name": "",
+      "Address": "1234567891",
+      "BankAccount": {
+        "BankName": "",
+        "AccountNumber": ""
+      },
+      "TaxId": "1234567891"
+    },
+    "ReleaseYear": 1979,
+    "Cost": 0.0,
+    "Supplier": null
+  }
+]

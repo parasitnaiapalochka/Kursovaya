@@ -1,0 +1,194 @@
+[
+  {
+    "Cinema": {
+      "PhoneNumber": "1234567890",
+      "SeatCount": 150,
+      "Director": {
+        "FullName": "Director 1",
+        "ContactInfo": "123456"
+      },
+      "Owner": {
+        "Name": "Company 1",
+        "Address": "Address",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "987654"
+        },
+        "TaxId": "987"
+      },
+      "Name": "Cinema 1",
+      "Address": "Address 1",
+      "BankAccount": {
+        "BankName": "Bank 1",
+        "AccountNumber": "12345"
+      },
+      "TaxId": "123"
+    },
+    "Movie": {
+      "Title": "Movie 1",
+      "Category": 0,
+      "ScriptWriter": {
+        "FullName": "Scriptwriter 1",
+        "ContactInfo": "123"
+      },
+      "Director": {
+        "FullName": "Director 1",
+        "ContactInfo": "123"
+      },
+      "ProductionCompany": {
+        "ProducedMovies": [],
+        "Name": "Production 1",
+        "Address": "Address",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "12345"
+        },
+        "TaxId": "111"
+      },
+      "ReleaseYear": 2022,
+      "Cost": 100.0,
+      "Supplier": {
+        "SuppliedMovies": [],
+        "Name": "Supplier 1",
+        "Address": "Address",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "98765"
+        },
+        "TaxId": "123"
+      }
+    },
+    "StartDate": "2024-12-07T07:33:18.198",
+    "EndDate": "2024-12-08T07:33:18.194",
+    "RentalFee": 20000.0,
+    "Deposit": 2000.0
+  },
+  {
+    "Cinema": {
+      "PhoneNumber": "1234567890",
+      "SeatCount": 150,
+      "Director": {
+        "FullName": "Director 1",
+        "ContactInfo": "123456"
+      },
+      "Owner": {
+        "Name": "Company 1",
+        "Address": "Address",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "987654"
+        },
+        "TaxId": "987"
+      },
+      "Name": "Cinema 1",
+      "Address": "Address 1",
+      "BankAccount": {
+        "BankName": "Bank 1",
+        "AccountNumber": "12345"
+      },
+      "TaxId": "123"
+    },
+    "Movie": {
+      "Title": "Movie 1",
+      "Category": 0,
+      "ScriptWriter": {
+        "FullName": "Scriptwriter 1",
+        "ContactInfo": "123"
+      },
+      "Director": {
+        "FullName": "Director 1",
+        "ContactInfo": "123"
+      },
+      "ProductionCompany": {
+        "ProducedMovies": [],
+        "Name": "Production 1",
+        "Address": "Address",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "12345"
+        },
+        "TaxId": "111"
+      },
+      "ReleaseYear": 2022,
+      "Cost": 100.0,
+      "Supplier": {
+        "SuppliedMovies": [],
+        "Name": "Supplier 1",
+        "Address": "Address",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "98765"
+        },
+        "TaxId": "123"
+      }
+    },
+    "StartDate": "2024-12-13T14:01:16.1880788+03:00",
+    "EndDate": "2024-12-14T14:01:16.182",
+    "RentalFee": 2005.0,
+    "Deposit": 200.0
+  },
+  {
+    "Cinema": {
+      "PhoneNumber": "99",
+      "SeatCount": 99,
+      "Director": {
+        "FullName": "John Doe",
+        "ContactInfo": "123456"
+      },
+      "Owner": {
+        "Name": "Company 1",
+        "Address": "Address 1",
+        "BankAccount": {
+          "BankName": "Bank 1",
+          "AccountNumber": "111111"
+        },
+        "TaxId": "001"
+      },
+      "Name": "Доктор",
+      "Address": "Доктор",
+      "BankAccount": {
+        "BankName": "Default Bank",
+        "AccountNumber": "0000"
+      },
+      "TaxId": "000"
+    },
+    "Movie": {
+      "Title": "Movie 1",
+      "Category": 0,
+      "ScriptWriter": {
+        "FullName": "John Doe",
+        "ContactInfo": "Scriptwriter"
+      },
+      "Director": {
+        "FullName": "Jane Doe",
+        "ContactInfo": "Director"
+      },
+      "ProductionCompany": {
+        "ProducedMovies": [],
+        "Name": "Company A",
+        "Address": "Address 1",
+        "BankAccount": {
+          "BankName": "Bank A",
+          "AccountNumber": "1234"
+        },
+        "TaxId": "Tax123"
+      },
+      "ReleaseYear": 2021,
+      "Cost": 100000.0,
+      "Supplier": {
+        "SuppliedMovies": [],
+        "Name": "Supplier A",
+        "Address": "Address A",
+        "BankAccount": {
+          "BankName": "Bank A",
+          "AccountNumber": "5678"
+        },
+        "TaxId": "Supplier1"
+      }
+    },
+    "StartDate": "2024-12-13T14:01:16.1880788+03:00",
+    "EndDate": "2024-12-14T14:01:16.182",
+    "RentalFee": 2005.0,
+    "Deposit": 201.0
+  }
+]

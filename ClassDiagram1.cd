@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LAB_movies.v2_.App">
+    <Position X="14.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.BankAccount">
+    <Position X="16.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAABAAAAAAAAA=</HashCode>
+      <FileName>BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.Cinema">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAARCAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cinema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies.v2_.CinemaForm">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUQACEAAJAAABCgAGACACAYIFAgAWgAAAAECAE=</HashCode>
+      <FileName>CinemaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.Company">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Class Name="LAB_movies_.Company.Individual" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Company.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.LegalEntity">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAgAE=</HashCode>
+      <FileName>LegalEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies.v2_.MainForm">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAICCBAAAAAACgAQACAIAAAIAAABQAgAAAAAI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.Movie">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABAAAAAAAMAAAAEAABAAAAQCAGAAAAIAAAAgCAA=</HashCode>
+      <FileName>Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies.v2_.MovieForm">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cCAgAAEAISAAABCQEBCAAABCIAAIACAAEAAgEUAAAIA=</HashCode>
+      <FileName>MovieForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.MovieRental">
+    <Position X="13.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAEAAAAAAAAAAgAAAAAEAAAAAAAEAAAAI=</HashCode>
+      <FileName>MovieRental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies.v2_.MovieRentalForm">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgGGBACAIABAAAFCAAAgCAAASAAQIACBAFAAAAAQ=</HashCode>
+      <FileName>MovieRentalForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.OwnerConverter">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>OwnerConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.Person">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAIAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.ProductionCompany">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductionCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies_.Supplier" Collapsed="true">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_movies.v2_.SupplierForm">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAEAAAACAAAJAQAADAAAhCIAAYgJAgEEAAAAAAACQ=</HashCode>
+      <FileName>SupplierForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LAB_movies_.Category">
+    <Position X="15" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAABAAAAAAAAAARAAAAQEAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

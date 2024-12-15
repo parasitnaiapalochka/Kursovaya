@@ -1,0 +1,71 @@
+[
+  {
+    "PhoneNumber": "99",
+    "SeatCount": 99,
+    "Director": {
+      "FullName": "John Doe",
+      "ContactInfo": "123456"
+    },
+    "Owner": {
+      "Name": "Company 1",
+      "Address": "Address 1",
+      "BankAccount": {
+        "BankName": "Bank 1",
+        "AccountNumber": "111111"
+      },
+      "TaxId": "001"
+    },
+    "Name": "Доктор",
+    "Address": "Доктор",
+    "BankAccount": {
+      "BankName": "Default Bank",
+      "AccountNumber": "0000"
+    },
+    "TaxId": "000"
+  },
+  {
+    "PhoneNumber": "+79856563222",
+    "SeatCount": 100,
+    "Director": {
+      "FullName": "Robert Johnson",
+      "ContactInfo": "112233"
+    },
+    "Owner": {
+      "Name": "Company 3",
+      "Address": "Address 3",
+      "BankAccount": {
+        "BankName": "Bank 3",
+        "AccountNumber": "333333"
+      },
+      "TaxId": "003"
+    },
+    "Name": "Звездочка",
+    "Address": "Ленина 59а",
+    "BankAccount": {
+      "BankName": "Default Bank",
+      "AccountNumber": "0000"
+    },
+    "TaxId": "000"
+  },
+  {
+    "PhoneNumber": "+79491234545",
+    "SeatCount": 123,
+    "Director": null,
+    "Owner": {
+      "Name": "Company 1",
+      "Address": "Address 1",
+      "BankAccount": {
+        "BankName": "Bank 1",
+        "AccountNumber": "111111"
+      },
+      "TaxId": "001"
+    },
+    "Name": "У реки",
+    "Address": "123",
+    "BankAccount": {
+      "BankName": "Default Bank",
+      "AccountNumber": "0000"
+    },
+    "TaxId": "000"
+  }
+]
